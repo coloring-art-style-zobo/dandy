@@ -240,5 +240,14 @@
             "bgImageName": "DANFY FUN",
             "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/dandy/refs/heads/main/n8.jpg"
         }
-    ]
+    ],
+      "ad_config": {
+    "ad_enabled": true,
+    "banner_id": "YOUR_BANNER_ID",
+    "interstitial_id": "YOUR_INTERSTITIAL_ID",
+    "rewarded_id": "YOUR_REWARDED_ID",
+    "app_open_id": "YOUR_APP_OPEN_ID",
+    "native_id": "ca-app-pub-6052807260559652/9620343874"
+  }
+
 }
