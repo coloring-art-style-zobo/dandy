@@ -1,5 +1,9 @@
 {
     "easy": [
+           {
+            "bgImageName": "DANFY FUN",
+            "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/dandy/refs/heads/main/b1.png"
+        },
         {
             "bgImageName": "DANFY FUN",
             "bgImagePath": "https://raw.githubusercontent.com/coloring-art-style-zobo/dandy/refs/heads/main/b1.jpg"
