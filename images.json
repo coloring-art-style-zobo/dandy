@@ -690,11 +690,11 @@
     ],
       "ad_config": {
     "ad_enabled": true,
-    "banner_id": "YOUR_BANNER_ID",
-    "interstitial_id": "YOUR_INTERSTITIAL_ID",
-    "rewarded_id": "YOUR_REWARDED_ID",
-    "app_open_id": "YOUR_APP_OPEN_ID",
-    "native_id": "ca-app-pub-6052807260559652/9620343874"
+    "banner_id": "ca-app-pub-6052807260559652/5020793314",
+    "interstitial_id": "ca-app-pub-6052807260559652/1898403581",
+    "rewarded_id": "ca-app-pub-6052807260559652/5893488912",
+    "app_open_id": "ca-app-pub-6052807260559652/1325090886",
+    "native_id": "ca-app-pub-6052807260559652/5646076900"
   }
 
 }
